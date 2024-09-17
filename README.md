@@ -11,4 +11,5 @@
 
 ## วิธีใช้งาน
    ```bash
-   https://calculator-kr6m.onrender.com/
+   https://calculator-one-wine.vercel.app
+   https://calculator-kr6m.onrender.com
