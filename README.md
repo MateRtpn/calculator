@@ -9,7 +9,10 @@
 - การคำนวณพื้นฐาน: บวก, ลบ, คูณ, หาร
 - ปุ่มเท่ากับ (=): กดเพื่อคำนวณผลลัพธ์
 
-## วิธีใช้งาน
-   ```bash
+## วิธีใช้งาน1
+1. ```bash
    https://calculator-one-wine.vercel.app
+
+## วิธีใช้งาน2
+2. ```bash
    https://calculator-kr6m.onrender.com
